@@ -2,11 +2,12 @@
 
 
 
+
+
+> **3rd-year Computer Engineering Student at Istanbul Arel University (GPA: 3.89/4.00)** > Focused on AI with a profound interest in its integration within Health Sciences. Dedicated to the convergence of Backend Architecture, Systems Engineering, and Artificial Intelligence. I am passionate about leading high-impact technical teams and exploring the transformative potential of AI to solve complex biomedical challenges. 🧠✨
 <p align="center">
   <img src="https://i.pinimg.com/736x/a6/cc/13/a6cc137eeec52b55e8d00876b05b2d60.jpg" alt="Pelin Kaya Full Width Banner" />
 </p>
-
-> **3rd-year Computer Engineering Student at Istanbul Arel University (GPA: 3.89/4.00)** > Focused on AI with a profound interest in its integration within Health Sciences. Dedicated to the convergence of Backend Architecture, Systems Engineering, and Artificial Intelligence. I am passionate about leading high-impact technical teams and exploring the transformative potential of AI to solve complex biomedical challenges. 🧠✨
 
 ---
 
