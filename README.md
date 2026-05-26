@@ -92,11 +92,12 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aeroplein&show_icons=true&theme=radical&count_private=true)
+
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aeroplein&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aeroplein&show_icons=true&theme=radical&count_private=true&v=2026-05-26)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aeroplein&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aeroplein&layout=compact&theme=radical&v=2026-05-26)
 
 </div>
 
