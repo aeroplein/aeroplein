@@ -25,6 +25,7 @@
 - 🏨 **Hotel Management System** *(COMPLETED)*: University project built with Java and Swing, implementing core hospitality management features with event-driven architecture.
 - 🎓 **Student Certification App** *(COMPLETED)*: JavaScript-based application for managing and issuing student certificates with automated workflows.
 - 🌦️ **Simple Weather App** *(COMPLETED)*: Responsive weather application built with HTML, CSS, and JavaScript leveraging real-time weather APIs.
+-  🏫 **University Automation System** *(COMPLETED)*: Developed a premium, role-based student information system using **Java Swing** and **FlatLaf** for a modern earth-tone UI. Engineered a modular **MVC architecture** featuring singleton-based data management, persistent file-based storage, and integrated **iText PDF** for automated transcript generation and **JFreeChart** for academic analytics.
 
 ---
 
@@ -47,7 +48,8 @@
 | **StegoDetector** | Python, OpenCV, NumPy | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
 | **Hotel Management** | Java, Swing | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
 | **Frantic Barista** | JavaScript, Game Logic | <img src="https://geps.dev/progress/60" alt="99% complete" /> | ✅ Completed |
-| **CampusNote Pro** | UML, Requirements Eng. | <img src="https://geps.dev/progress/20" alt="75% complete" /> | 🔄 In Development |
+| **University Automation System** | Java, Swing, FlatLaf, iText | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
+| **CampusNote Pro** | UML, Requirements Eng. | <img src="https://geps.dev/progress/75" alt="75% complete" /> | 🔄 In Development |
 | **Overengineering Detector** | Node.js, PostgreSQL, React | <img src="https://geps.dev/progress/75" alt="85% complete" /> | 🔄 In Development |
 | **Expense Tracker** | Java, Swing, SQL | <img src="https://geps.dev/progress/100" alt="50% complete" /> | 🔄 In Development |
 
