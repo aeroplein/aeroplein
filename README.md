@@ -45,11 +45,11 @@
 | :--- | :--- | :--- | :--- |
 | **Code Your Tree** | Java 21, Spring Boot, JS | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
 | **StegoDetector** | Python, OpenCV, NumPy | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
-| **Expense Tracker** | Java, Swing, SQL | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
 | **Hotel Management** | Java, Swing | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
-| **CampusNote Pro** | UML, Requirements Eng. | <img src="https://geps.dev/progress/20" alt="20% complete" /> | 🔄 In Development |
-| **Frantic Barista** | JavaScript, Game Logic | <img src="https://geps.dev/progress/60" alt="60% complete" /> | 🔄 In Development |
-| **Overengineering Detector** | Node.js, PostgreSQL, React | <img src="https://geps.dev/progress/75" alt="75% complete" /> | 🔄 In Development |
+| **Frantic Barista** | JavaScript, Game Logic | <img src="https://geps.dev/progress/60" alt="99% complete" /> | ✅ Completed |
+| **CampusNote Pro** | UML, Requirements Eng. | <img src="https://geps.dev/progress/20" alt="75% complete" /> | 🔄 In Development |
+| **Overengineering Detector** | Node.js, PostgreSQL, React | <img src="https://geps.dev/progress/75" alt="85% complete" /> | 🔄 In Development |
+| **Expense Tracker** | Java, Swing, SQL | <img src="https://geps.dev/progress/100" alt="50% complete" /> | 🔄 In Development |
 
 ---
 
