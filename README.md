@@ -1,6 +1,6 @@
 # ✨ Hi there, I'm Pelin! 👋
 
-> **3rd-year Computer Engineering Student at Istanbul Arel University (GPA: 3.89/4.00)** 
+> **3rd-year Computer Engineering Student at Istanbul Arel University (GPA: 3.88/4.00)** 
 > Focused on AI with a profound interest in its integration within Health Sciences. Dedicated to the convergence of cutting-edge machine learning and biomedical innovation.
 
 <p align="center">
