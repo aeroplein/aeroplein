@@ -1,133 +1,139 @@
-<img width="1774" height="443" alt="resim" src="https://github.com/user-attachments/assets/924836d3-4e36-48a6-ac94-4e8136aa30a9" />
-
-
-
+<img width="1774" height="443" alt="Floral pixel-art GitHub profile banner" src="https://github.com/user-attachments/assets/924836d3-4e36-48a6-ac94-4e8136aa30a9" />
 
 # ✨ Hi there, I'm Pelin! 👋
 
-> **3rd-year Computer Engineering Student at Istanbul Arel University (GPA: 3.88/4.00)** 
-> Focused on AI with a profound interest in its integration within Health Sciences. Dedicated to the convergence of cutting-edge machine learning and biomedical innovation.
+> **Fourth-year Computer Engineering Student at Istanbul Arel University (CGPA: 3.88/4.00)**  
+> **100% Merit Scholarship · High Honor Student**  
+> Focused on backend and full-stack software engineering, AI/ML, health-tech, and industrial automation.
 
-<img width="1672" height="941" alt="ChatGPT Image 25 Ağu 2026 08_31_56" src="https://github.com/user-attachments/assets/045d73ca-f888-449d-b307-f47f1a1f3ccc" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/045d73ca-f888-449d-b307-f47f1a1f3ccc" alt="Pelin's pixel-art profile illustration" width="100%" />
+</p>
 
+### 🏭 Industry Experience
 
-<img width="1600" height="96" alt="resim" src="https://github.com/user-attachments/assets/4c8807c2-dc27-4974-b716-922922b8bd9d" />
+- **Automation Intern | Akçansa–Betonsa Technology Center** *(August 2026–Present)*: Working with PLC/HMI communication, industrial-network troubleshooting, Delta DVP PLCs, DOPSoft, and TwinCAT. Also exploring computer-vision, image-processing, and data-process applications in an industrial environment.
 
+<img width="1600" height="96" alt="Floral section separator" src="https://github.com/user-attachments/assets/4c8807c2-dc27-4974-b716-922922b8bd9d" />
 
 ### 🚀 Active Projects (In Development)
 
-- 🏗️ **CampusNote Pro | Project Lead**: Leading a team of 4 to architect a university-wide academic sharing ecosystem. Managing the full **SDLC**, including **IEEE 830-1998** documentation, UML diagrams, and comprehensive requirements engineering.
-- 💰 **Expense Tracker | Java Swing**: Finalizing a desktop financial manager applying strict **OOP Principles** and the **DAO Pattern** for modular database interaction and scalable GUI architecture with PostgreSQL JDBC.
-- 🎮 **Frantic Barista | Game Logic**: Building a logic-heavy simulation game focused on complex state management, real-time event handling, and interactive user experiences using Vanilla JS and HTML5 Canvas API.
-- 🔍 **Overengineering Detector | Full-Stack**: A CRUD + analysis system evaluating technology stacks using a custom scoring engine. RESTful API with Node.js/Express, PostgreSQL, JWT authentication, and vanilla JS SPA frontend.
+- 🏗️ **CampusNote Pro | Product Owner & Scrum Master**: Leading a team of 4 in the development of an AI-assisted academic-sharing platform. Managing the SDLC, IEEE 830-aligned requirements, UML, user stories, and Scrum processes. The architecture combines **Java Spring Boot**, **PostgreSQL**, **Tailwind CSS**, and an external **Python AI service**.
+- 🔍 **Overengineering Detector | Full-Stack**: Developing a technology-stack analysis platform with project CRUD, authentication, role-based access, analysis history, and a custom scoring engine for identifying underengineering and overengineering risks.
+- 📅 **Academic Calendar Scraper Istanbul | Data Engineering**: Building a Python pipeline that collects and validates official 2026–2027 academic-calendar sources from Istanbul universities and detects HTML, PDF, embedded-document, and API-based formats.
+- 🔒 **Subliminal Bias Firewall | LLM Safety Research**: Investigating LoRA/QLoRA-based evaluation workflows for detecting hidden behavioral bias, trait leakage, unsupported citations, and uncertainty errors in language-model outputs.
 
-<img width="1600" height="96" alt="resim" src="https://github.com/user-attachments/assets/ff387d82-ef91-4c1d-b7b5-eb977c433353" />
-
+<img width="1600" height="96" alt="Floral section separator" src="https://github.com/user-attachments/assets/ff387d82-ef91-4c1d-b7b5-eb977c433353" />
 
 ### ✅ Completed Projects
 
-- 🌳 **Code Your Tree | Full-Stack** *(COMPLETED)*: Developed a **Coding Habit Tracker** using **Spring Boot 3.3**, Java 21, and **PostgreSQL**. Engineered recursive tree-growth algorithms visualizing coding progress with real-time persistence.
-- 🛡️ **StegoDetector** *(COMPLETED)*: Developed a texture-aware steganalysis system utilizing **OpenCV** and **Sobel Gradient Mapping** for hidden data detection in digital images. Achieved 90%+ detection accuracy.
-- 🏨 **Hotel Management System** *(COMPLETED)*: University project built with Java and Swing, implementing core hospitality management features with event-driven architecture.
-- 🎓 **Student Certification App** *(COMPLETED)*: JavaScript-based application for managing and issuing student certificates with automated workflows.
-- 🌦️ **Simple Weather App** *(COMPLETED)*: Responsive weather application built with HTML, CSS, and JavaScript leveraging real-time weather APIs.
--  🏫 **University Automation System** *(COMPLETED)*: Developed a premium, role-based student information system using **Java Swing** and **FlatLaf** for a modern earth-tone UI. Engineered a modular **MVC architecture** featuring singleton-based data management, persistent file-based storage, and integrated **iText PDF** for automated transcript generation and **JFreeChart** for academic analytics.
+- 🌌 **aura.board | Full-Stack**: Built and deployed a collaborative digital vision board with **ASP.NET Core (.NET 9)**, PostgreSQL, Entity Framework Core, Vite, and vanilla JavaScript. Implemented HttpOnly-cookie JWT authentication, PBKDF2-SHA512 password hashing, collaboration features, persistent storage, and optional Gemini-powered inspiration.
+- 🌳 **CodeYourTree | Full-Stack**: Developed a coding-habit tracker using **Java 21**, **Spring Boot 3**, **Spring Security**, and **PostgreSQL**. Implemented recursive tree-growth logic, persistent progress tracking, and backend tests with **JUnit 5** and **Mockito**.
+- 🛡️ **StegoDetector**: Developed a texture-aware steganalysis application using **Python**, **Streamlit**, **XGBoost**, **scikit-learn**, **OpenCV**, and **NumPy** to classify and analyze potentially hidden image data.
+- 🏫 **University Automation System**: Developed a role-based student information system using **Java Swing** and **FlatLaf**. Designed a modular MVC architecture with persistent file-based storage, **iText PDF** transcript generation, and **JFreeChart** academic analytics.
+- 💰 **Expense Tracker | Java Swing**: Built a desktop finance manager using OOP principles, the DAO pattern, PostgreSQL, and JDBC for modular data access.
+- 🎮 **Frantic Barista | Game Logic**: Built a simulation game focused on state management, real-time event handling, and interactive gameplay using Vanilla JavaScript and the HTML5 Canvas API.
+- 🏨 **Hotel Management System**: Created a Java Swing application implementing core hospitality-management workflows with event-driven programming.
+- 🎓 **Student Certification App**: Developed a JavaScript application for managing and issuing student certificates through automated workflows.
+- 🌦️ **Simple Weather App**: Built a responsive HTML, CSS, and JavaScript application using a real-time weather API.
 
-<img width="1600" height="96" alt="resim" src="https://github.com/user-attachments/assets/8638e3b4-d275-47cc-b7e4-5ee8fe5fa5df" />
-
+<img width="1600" height="96" alt="Floral section separator" src="https://github.com/user-attachments/assets/8638e3b4-d275-47cc-b7e4-5ee8fe5fa5df" />
 
 ### 🧪 Research & Engineering Milestones
 
-- 🧠 **Generative XAI (ADHD EEG)**: Lead researcher on **EEG Stationarity Analysis**. Developed a **Diffusion Transformer (D4PM)** framework to synthesize pediatric EEG data and quantify stationarity gap (11%) between adult and pediatric signals for improved ADHD diagnostics.
-- 🔒 **SSH Tunneling Simulation**: Engineered a secure communication protocol in **C++** implementing **Diffie-Hellman** key exchange and encrypted packet forwarding to simulate secure data tunneling.
-- 🎸 **Deep Learning Music Classifier**: Built a **TensorFlow** & **Librosa** powered engine to analyze structural dynamics in music, specifically comparing Metal and Classical genres using MFCC features and CNN+LSTM architecture on GTZAN dataset.
-- 🔢 **MNIST Digit Recognition**: Implemented a **Deep Neural Network** using **Keras** for handwritten digit classification, optimizing layer architectures for high-precision predictive accuracy.
-- 🩺 **Cervical Cancer Prediction**: Developed a **Voting Classifier** (LogisticRegression, KNN, DecisionTree) with median imputation, feature normalization, and class balancing to achieve high accuracy in cancer risk prediction.
-- 🖼️ **Image Steganography & Steganalysis**: Comprehensive study of steganography techniques and counter-analysis methods for detecting hidden data in images.
+- 🧠 **Generative XAI for ADHD EEG**: Explored EEG stationarity analysis, explainability, and synthetic-data approaches for pediatric ADHD research.
+- 🔐 **Hybrid SSH Tunneling Simulation**: Implemented a secure communication simulation in **C++** using sockets, Diffie–Hellman key exchange, cryptographic concepts, and encrypted packet forwarding.
+- 🎸 **Deep Learning Music Classifier**: Used **TensorFlow**, **Librosa**, MFCC features, and a CNN+LSTM architecture to compare Metal and Classical music on the GTZAN dataset.
+- 🔢 **MNIST Digit Recognition**: Implemented and optimized a deep neural network with **Keras** for handwritten-digit classification.
+- 🩺 **Cervical Cancer Risk Prediction**: Developed a voting classifier combining Logistic Regression, KNN, and Decision Tree models with median imputation, feature normalization, and class-balancing techniques.
+- 🖼️ **Image Steganography & Steganalysis**: Studied image-steganography methods and counter-analysis techniques using texture, gradient, and machine-learning features.
 
-<img width="1600" height="96" alt="resim" src="https://github.com/user-attachments/assets/3d4f7e9d-9570-4b5d-8abf-8f20297e40ee" />
-
+<img width="1600" height="96" alt="Floral section separator" src="https://github.com/user-attachments/assets/3d4f7e9d-9570-4b5d-8abf-8f20297e40ee" />
 
 ### 🛠️ Project & Research Progress
 
 | Project | Tech Stack | Progress | Status |
 | :--- | :--- | :--- | :--- |
-| **Code Your Tree** | Java 21, Spring Boot, JS | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
-| **StegoDetector** | Python, OpenCV, NumPy | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
-| **Hotel Management** | Java, Swing | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
-| **Frantic Barista** | JavaScript, Game Logic | <img src="https://geps.dev/progress/60" alt="99% complete" /> | ✅ Completed |
+| **aura.board** | ASP.NET Core (.NET 9), PostgreSQL, Vite | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Deployed |
+| **CodeYourTree** | Java 21, Spring Boot, PostgreSQL | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
+| **StegoDetector** | Python, OpenCV, XGBoost | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
+| **Frantic Barista** | JavaScript, HTML5 Canvas | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
 | **University Automation System** | Java, Swing, FlatLaf, iText | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
-| **CampusNote Pro** | UML, Requirements Eng. | <img src="https://geps.dev/progress/75" alt="75% complete" /> | 🔄 In Development |
-| **Overengineering Detector** | Node.js, PostgreSQL, React | <img src="https://geps.dev/progress/75" alt="85% complete" /> | 🔄 In Development |
-| **Expense Tracker** | Java, Swing, SQL | <img src="https://geps.dev/progress/100" alt="50% complete" /> | 🔄 In Development |
+| **Expense Tracker** | Java, Swing, PostgreSQL | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
+| **CampusNote Pro** | Spring Boot, PostgreSQL, Python | <img src="https://geps.dev/progress/75" alt="75% complete" /> | 🔄 In Development |
+| **Overengineering Detector** | Node.js, PostgreSQL, Vanilla JS | <img src="https://geps.dev/progress/85" alt="85% complete" /> | 🔄 In Development |
+| **Academic Calendar Scraper Istanbul** | Python, YAML, HTML/PDF Parsing | <img src="https://geps.dev/progress/30" alt="30% complete" /> | 🔄 In Development |
 
-<img width="1600" height="96" alt="resim" src="https://github.com/user-attachments/assets/8b5ac2bc-1112-4f42-b3ed-467677031708" />
-
+<img width="1600" height="96" alt="Floral section separator" src="https://github.com/user-attachments/assets/8b5ac2bc-1112-4f42-b3ed-467677031708" />
 
 ### 🔍 Technical Deep Dive
 
-**Systems & Architecture**
-- **Requirements Engineering**: Managing software lifecycles using **IEEE 830-1998** standards, ensuring full traceability from user needs to system test cases.
-- **Secure Networking**: Implementing **SSH Protocol** simulations in **C++** with cryptographic key exchange and secure tunneling mechanisms.
-- **Backend Infrastructure**: Architecting robust services with **Spring Boot 3.3**, utilizing **JPA/Hibernate** for persistent data management and **JWT** for stateless security.
+**Systems, Backend & Architecture**
 
-**Artificial Intelligence & Research**
-- **Generative Modeling**: Utilizing **Diffusion Transformers (D4PM)** for synthetic data generation in high-stakes environments like pediatric EEG analysis.
-- **Explainable AI (XAI)**: Applying **XAI** libraries to quantify statistical gaps and provide biological validation for deep learning model outputs.
-- **Computer Vision**: Building robust classifiers ranging from **MNIST digit recognition** to complex **texture-aware steganalysis** using specialized gradient filters and CNN architectures.
-- **Data Science**: Healthcare prediction systems with ensemble methods, feature engineering, and class imbalance handling.
+- **Backend Engineering**: Building REST services with **Spring Boot**, **ASP.NET Core**, and **Node.js/Express**, supported by PostgreSQL, JPA/Hibernate, EF Core, and secure JWT-based authentication.
+- **Requirements Engineering**: Managing requirements, user stories, traceability, UML models, and software lifecycles through IEEE 830-aligned documentation and Agile/Scrum practices.
+- **Secure Networking**: Implementing socket-based secure-tunneling simulations in C++ with key exchange and encrypted packet forwarding.
+- **Industrial Automation**: Working with PLC/HMI communication, Delta DVP, DOPSoft, TwinCAT, IP configuration, and industrial-network diagnostics.
 
-<img width="1600" height="96" alt="resim" src="https://github.com/user-attachments/assets/4305e78b-86c7-4545-abd6-a09bdf968875" />
+**Artificial Intelligence, Data & Research**
 
+- **Applied Machine Learning**: Developing healthcare-oriented prediction systems with ensemble learning, feature engineering, model evaluation, and class-imbalance handling.
+- **LLM Adaptation & Safety**: Studying **LoRA/QLoRA**, evaluation pipelines, bias leakage, citation reliability, and uncertainty-aware model behavior.
+- **Computer Vision**: Applying OpenCV, gradient filters, texture analysis, classical ML, and deep-learning methods to image classification and steganalysis.
+- **Data Engineering**: Practicing PostgreSQL extraction, JDBC connectivity, ETL pipelines, schema design, and Spark/PySpark fundamentals.
+
+<img width="1600" height="96" alt="Floral section separator" src="https://github.com/user-attachments/assets/4305e78b-86c7-4545-abd6-a09bdf968875" />
 
 ### 🛠️ My Skillset
+
 <p align="left">
 <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" height="40" />
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" height="40" />
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="40" />
+<img src="https://img.shields.io/badge/C%23-%23512BD4.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" height="40" />
+<img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" height="40" />
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" height="40" />
 <img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="40" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" height="40" />
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="40" />
 <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="40" />
+<img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" height="40" />
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" height="40" />
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn" height="40" />
-<img src="https://img.shields.io/badge/OpenCV-%236DB33F.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" height="40" />
+<img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV" height="40" />
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="40" />
+<img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="40" />
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="40" />
 </p>
 
-<img width="1600" height="96" alt="resim" src="https://github.com/user-attachments/assets/419e44fb-b03a-440a-9557-62fc4b42d42c" />
-
+<img width="1600" height="96" alt="Floral section separator" src="https://github.com/user-attachments/assets/419e44fb-b03a-440a-9557-62fc4b42d42c" />
 
 ### 📊 GitHub Statistics
 
 <div align="center">
 
-
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aeroplein&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aeroplein&show_icons=true&theme=radical&count_private=true&v=2026-05-26)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aeroplein&layout=compact&theme=radical&v=2026-05-26)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aeroplein&theme=radical" alt="GitHub contribution streak" width="70%" />
+<br />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aeroplein&theme=radical" alt="GitHub statistics" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aeroplein&theme=radical" alt="Most used languages by commits" width="49%" />
 
 </div>
 
-<img width="1600" height="96" alt="resim" src="https://github.com/user-attachments/assets/4065ab85-2edd-4d88-97a6-e3a214955742" />
+<img width="1600" height="96" alt="Floral section separator" src="https://github.com/user-attachments/assets/4065ab85-2edd-4d88-97a6-e3a214955742" />
 
+### 📚 Additional Resources & Current Learning
 
-### 📚 Additional Resources & Learning
+- **Data Engineering Foundations**: PostgreSQL extraction, relational modeling, JDBC, ETL pipelines, and Spark/PySpark fundamentals
+- **Industrial Automation**: PLC ladder logic, PLC/HMI communication, Delta DVP, DOPSoft, TwinCAT, and industrial networking
+- **LoRA & QLoRA**: Parameter-efficient fine-tuning concepts, implementation patterns, and LLM evaluation
+- **Linux Essentials**: Command-line fundamentals, permissions, processes, networking, and system administration
+- **Hands-On AI Image Processing**: Applied image processing and computer-vision workflows with Python
 
-- **Data Science Python**: Foundational Python concepts and data manipulation techniques
-- **Hands-On AI Image Processing**: LinkedIn Learning coursework on advanced image processing with Python
-- **Java102 Coursework**: patika.dev Java102 course assignments and exercises
-- **University Automation System**: Java-based system for streamlining university administrative processes
-
-<img width="1600" height="96" alt="resim" src="https://github.com/user-attachments/assets/011af00d-52a2-4836-819c-ef7c640d6d5c" />
-
+<img width="1600" height="96" alt="Floral section separator" src="https://github.com/user-attachments/assets/011af00d-52a2-4836-819c-ef7c640d6d5c" />
 
 ### 📫 Get in Touch
 
-Feel free to reach out to discuss projects, research, or collaboration opportunities!
+I am open to long-term internships, working-student roles, and collaborations in **backend development, full-stack engineering, data, industrial automation, and applied AI**.
 
-⭐ If you find any of my projects interesting, don't forget to star them!
+- GitHub: [@aeroplein](https://github.com/aeroplein)
 
+⭐ If you find any of my projects interesting, feel free to explore my repositories and leave a star!
