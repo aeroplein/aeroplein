@@ -1,11 +1,15 @@
+<img width="1774" height="443" alt="resim" src="https://github.com/user-attachments/assets/924836d3-4e36-48a6-ac94-4e8136aa30a9" />
+
+
+
+
 # ✨ Hi there, I'm Pelin! 👋
 
 > **3rd-year Computer Engineering Student at Istanbul Arel University (GPA: 3.88/4.00)** 
 > Focused on AI with a profound interest in its integration within Health Sciences. Dedicated to the convergence of cutting-edge machine learning and biomedical innovation.
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/a6/cc/13/a6cc137eeec52b55e8d00876b05b2d60.jpg" alt="Pelin Kaya Full Width Banner" />
-</p>
+<img width="1672" height="941" alt="ChatGPT Image 25 Ağu 2026 08_31_56" src="https://github.com/user-attachments/assets/045d73ca-f888-449d-b307-f47f1a1f3ccc" />
+
 
 ---
 
