@@ -11,7 +11,8 @@
 <img width="1672" height="941" alt="ChatGPT Image 25 Ağu 2026 08_31_56" src="https://github.com/user-attachments/assets/045d73ca-f888-449d-b307-f47f1a1f3ccc" />
 
 
----
+<img width="1600" height="96" alt="resim" src="https://github.com/user-attachments/assets/4c8807c2-dc27-4974-b716-922922b8bd9d" />
+
 
 ### 🚀 Active Projects (In Development)
 
@@ -20,7 +21,8 @@
 - 🎮 **Frantic Barista | Game Logic**: Building a logic-heavy simulation game focused on complex state management, real-time event handling, and interactive user experiences using Vanilla JS and HTML5 Canvas API.
 - 🔍 **Overengineering Detector | Full-Stack**: A CRUD + analysis system evaluating technology stacks using a custom scoring engine. RESTful API with Node.js/Express, PostgreSQL, JWT authentication, and vanilla JS SPA frontend.
 
----
+<img width="1600" height="96" alt="resim" src="https://github.com/user-attachments/assets/ff387d82-ef91-4c1d-b7b5-eb977c433353" />
+
 
 ### ✅ Completed Projects
 
@@ -31,7 +33,8 @@
 - 🌦️ **Simple Weather App** *(COMPLETED)*: Responsive weather application built with HTML, CSS, and JavaScript leveraging real-time weather APIs.
 -  🏫 **University Automation System** *(COMPLETED)*: Developed a premium, role-based student information system using **Java Swing** and **FlatLaf** for a modern earth-tone UI. Engineered a modular **MVC architecture** featuring singleton-based data management, persistent file-based storage, and integrated **iText PDF** for automated transcript generation and **JFreeChart** for academic analytics.
 
----
+<img width="1600" height="96" alt="resim" src="https://github.com/user-attachments/assets/8638e3b4-d275-47cc-b7e4-5ee8fe5fa5df" />
+
 
 ### 🧪 Research & Engineering Milestones
 
@@ -42,7 +45,8 @@
 - 🩺 **Cervical Cancer Prediction**: Developed a **Voting Classifier** (LogisticRegression, KNN, DecisionTree) with median imputation, feature normalization, and class balancing to achieve high accuracy in cancer risk prediction.
 - 🖼️ **Image Steganography & Steganalysis**: Comprehensive study of steganography techniques and counter-analysis methods for detecting hidden data in images.
 
----
+<img width="1600" height="96" alt="resim" src="https://github.com/user-attachments/assets/3d4f7e9d-9570-4b5d-8abf-8f20297e40ee" />
+
 
 ### 🛠️ Project & Research Progress
 
@@ -57,7 +61,8 @@
 | **Overengineering Detector** | Node.js, PostgreSQL, React | <img src="https://geps.dev/progress/75" alt="85% complete" /> | 🔄 In Development |
 | **Expense Tracker** | Java, Swing, SQL | <img src="https://geps.dev/progress/100" alt="50% complete" /> | 🔄 In Development |
 
----
+<img width="1600" height="96" alt="resim" src="https://github.com/user-attachments/assets/8b5ac2bc-1112-4f42-b3ed-467677031708" />
+
 
 ### 🔍 Technical Deep Dive
 
@@ -72,7 +77,8 @@
 - **Computer Vision**: Building robust classifiers ranging from **MNIST digit recognition** to complex **texture-aware steganalysis** using specialized gradient filters and CNN architectures.
 - **Data Science**: Healthcare prediction systems with ensemble methods, feature engineering, and class imbalance handling.
 
----
+<img width="1600" height="96" alt="resim" src="https://github.com/user-attachments/assets/4305e78b-86c7-4545-abd6-a09bdf968875" />
+
 
 ### 🛠️ My Skillset
 <p align="left">
@@ -90,7 +96,8 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="40" />
 </p>
 
----
+<img width="1600" height="96" alt="resim" src="https://github.com/user-attachments/assets/419e44fb-b03a-440a-9557-62fc4b42d42c" />
+
 
 ### 📊 GitHub Statistics
 
@@ -105,7 +112,8 @@
 
 </div>
 
----
+<img width="1600" height="96" alt="resim" src="https://github.com/user-attachments/assets/4065ab85-2edd-4d88-97a6-e3a214955742" />
+
 
 ### 📚 Additional Resources & Learning
 
@@ -114,7 +122,8 @@
 - **Java102 Coursework**: patika.dev Java102 course assignments and exercises
 - **University Automation System**: Java-based system for streamlining university administrative processes
 
----
+<img width="1600" height="96" alt="resim" src="https://github.com/user-attachments/assets/011af00d-52a2-4836-819c-ef7c640d6d5c" />
+
 
 ### 📫 Get in Touch
 
