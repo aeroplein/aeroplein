@@ -28,13 +28,13 @@
 
 - 💼 **[Personal Portfolio Website](https://github.com/aeroplein/personal-portfolio-website) | Full-Stack**: Built a full-stack engineering portfolio with a **React 19**, TypeScript, Vite, Tailwind CSS, and Motion frontend; a **Java 21**, Spring Boot, JPA, and PostgreSQL backend; typed REST APIs; a validated and rate-limited contact workflow; Resend integration; automated tests; and GitHub Actions CI/CD.
 - 🏥 **[Regional Healthcare Database Management System](https://github.com/aeroplein/Regional-Healthcare-Database-Management-System) | Database Engineering**: Designed a normalized **Microsoft SQL Server/T-SQL** healthcare database with 36 relational tables covering patients, facilities, staff, appointments, visits, referrals, transfers, diagnoses, prescriptions, and allergies. Implemented EER modelling, subtype and associative relationships, PK/FK constraints, business-rule checks, persisted computed columns, sample data, and reporting views for patient journeys and regional epidemiology.
-- 🏆 **DATATHON 2026 | Team Participant**: Completed the **Data Science, Algorithmic Problem Solving & Optimization Track** as part of a two-person team in the 9–14 June 2026 competition organized by **BTK Akademi, Google, and Girişimcilik Vakfı**. Collaborated on time-constrained data-analysis, algorithmic problem-solving, and optimization tasks and earned a participation certificate.
+- 🏆 **[DATATHON 2026](https://github.com/aeroplein/datathon-2026) | Team Participant**: Completed the **Data Science, Algorithmic Problem Solving & Optimization Track** as part of a two-person team in the 9–14 June 2026 competition organized by **BTK Akademi, Google, and Girişimcilik Vakfı**. Collaborated on time-constrained data-analysis, algorithmic problem-solving, and optimization tasks and earned a participation certificate.
 - 🏗️ **CampusNote Pro | Product Owner & Scrum Master**: Led a team of 4 in developing an AI-assisted academic-sharing platform. Managed the SDLC, IEEE 830-aligned requirements, UML, user stories, and Scrum processes. The architecture combines **Java Spring Boot**, **PostgreSQL**, **Tailwind CSS**, and an external **Python AI service**.
-- 🌌 **aura.board | Full-Stack**: Built and deployed a collaborative digital vision board with **ASP.NET Core (.NET 9)**, PostgreSQL, Entity Framework Core, Vite, and vanilla JavaScript. Implemented HttpOnly-cookie JWT authentication, PBKDF2-SHA512 password hashing, collaboration features, persistent storage, and optional Gemini-powered inspiration.
-- 🌳 **CodeYourTree | Full-Stack**: Developed a coding-habit tracker using **Java 21**, **Spring Boot 3**, **Spring Security**, and **PostgreSQL**. Implemented recursive tree-growth logic, persistent progress tracking, and backend tests with **JUnit 5** and **Mockito**.
+- 🌌 **[aura.board](https://github.com/aeroplein/digital-vision-board) | Full-Stack**: Built and deployed a collaborative digital vision board with **ASP.NET Core (.NET 9)**, PostgreSQL, Entity Framework Core, Vite, and vanilla JavaScript. Implemented HttpOnly-cookie JWT authentication, PBKDF2-SHA512 password hashing, collaboration features, persistent storage, and optional Gemini-powered inspiration. **[Live Demo](https://digital-vision-board-o5r4.onrender.com/)**
+- 🌳 **[CodeYourTree](https://github.com/aeroplein/codeyourtree) | Full-Stack**: Developed a coding-habit tracker using **Java 21**, **Spring Boot 3**, **Spring Security**, and **PostgreSQL**. Implemented recursive tree-growth logic, persistent progress tracking, and backend tests with **JUnit 5** and **Mockito**.
 - 🛡️ **StegoDetector**: Developed a texture-aware steganalysis application using **Python**, **Streamlit**, **XGBoost**, **scikit-learn**, **OpenCV**, and **NumPy** to classify and analyze potentially hidden image data.
 - 🏫 **University Automation System**: Developed a role-based student information system using **Java Swing** and **FlatLaf**. Designed a modular MVC architecture with persistent file-based storage, **iText PDF** transcript generation, and **JFreeChart** academic analytics.
-- 💰 **Expense Tracker | Java Swing**: Built a desktop finance manager using OOP principles, the DAO pattern, PostgreSQL, and JDBC for modular data access.
+- 💰 **[Expense Tracker](https://github.com/aeroplein/expense-tracker-app-java) | Java Swing**: Built a desktop finance manager using OOP principles, the DAO pattern, PostgreSQL, and JDBC for modular data access.
 - 🎮 **Frantic Barista | Game Logic**: Built a simulation game focused on state management, real-time event handling, and interactive gameplay using Vanilla JavaScript and the HTML5 Canvas API.
 - 🏨 **Hotel Management System**: Created a Java Swing application implementing core hospitality-management workflows with event-driven programming.
 - 🎓 **Student Certification App**: Developed a JavaScript application for managing and issuing student certificates through automated workflows.
@@ -45,7 +45,7 @@
 ### 🧪 Research & Engineering Milestones
 
 - 🧠 **Generative XAI for ADHD EEG**: Explored EEG stationarity analysis, explainability, and synthetic-data approaches for pediatric ADHD research.
-- 🔐 **Hybrid SSH Tunneling Simulation**: Implemented a secure communication simulation in **C++** using sockets, Diffie–Hellman key exchange, cryptographic concepts, and encrypted packet forwarding.
+- 🔐 **[Hybrid SSH Tunneling Simulation](https://github.com/aeroplein/ssh-tunneling)**: Implemented a secure communication simulation in **C++** using sockets, Diffie–Hellman key exchange, cryptographic concepts, and encrypted packet forwarding.
 - 🎸 **Deep Learning Music Classifier**: Used **TensorFlow**, **Librosa**, MFCC features, and a CNN+LSTM architecture to compare Metal and Classical music on the GTZAN dataset.
 - 🔢 **MNIST Digit Recognition**: Implemented and optimized a deep neural network with **Keras** for handwritten-digit classification.
 - 🩺 **Cervical Cancer Risk Prediction**: Developed a voting classifier combining Logistic Regression, KNN, and Decision Tree models with median imputation, feature normalization, and class-balancing techniques.
@@ -140,6 +140,7 @@
 
 I am open to long-term internships, working-student roles, and collaborations in **backend development, full-stack engineering, data, industrial automation, and applied AI**.
 
+- Portfolio: [pelinzeynepkaya.com](https://pelinzeynepkaya.com)
 - GitHub: [@aeroplein](https://github.com/aeroplein)
 
 ⭐ If you find any of my projects interesting, feel free to explore my repositories and leave a star!
