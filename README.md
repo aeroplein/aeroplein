@@ -18,7 +18,6 @@
 
 ### 🚀 Active Projects (In Development)
 
-- 🏗️ **CampusNote Pro | Product Owner & Scrum Master**: Leading a team of 4 in the development of an AI-assisted academic-sharing platform. Managing the SDLC, IEEE 830-aligned requirements, UML, user stories, and Scrum processes. The architecture combines **Java Spring Boot**, **PostgreSQL**, **Tailwind CSS**, and an external **Python AI service**.
 - 🔍 **Overengineering Detector | Full-Stack**: Developing a technology-stack analysis platform with project CRUD, authentication, role-based access, analysis history, and a custom scoring engine for identifying underengineering and overengineering risks.
 - 📅 **Academic Calendar Scraper Istanbul | Data Engineering**: Building a Python pipeline that collects and validates official 2026–2027 academic-calendar sources from Istanbul universities and detects HTML, PDF, embedded-document, and API-based formats.
 - 🔒 **Subliminal Bias Firewall | LLM Safety Research**: Investigating LoRA/QLoRA-based evaluation workflows for detecting hidden behavioral bias, trait leakage, unsupported citations, and uncertainty errors in language-model outputs.
@@ -27,6 +26,10 @@
 
 ### ✅ Completed Projects
 
+- 💼 **[Personal Portfolio Website](https://github.com/aeroplein/personal-portfolio-website) | Full-Stack**: Built a full-stack engineering portfolio with a **React 19**, TypeScript, Vite, Tailwind CSS, and Motion frontend; a **Java 21**, Spring Boot, JPA, and PostgreSQL backend; typed REST APIs; a validated and rate-limited contact workflow; Resend integration; automated tests; and GitHub Actions CI/CD.
+- 🏥 **[Regional Healthcare Database Management System](https://github.com/aeroplein/Regional-Healthcare-Database-Management-System) | Database Engineering**: Designed a normalized **Microsoft SQL Server/T-SQL** healthcare database with 36 relational tables covering patients, facilities, staff, appointments, visits, referrals, transfers, diagnoses, prescriptions, and allergies. Implemented EER modelling, subtype and associative relationships, PK/FK constraints, business-rule checks, persisted computed columns, sample data, and reporting views for patient journeys and regional epidemiology.
+- 🏆 **DATATHON 2026 | Team Participant**: Completed the **Data Science, Algorithmic Problem Solving & Optimization Track** as part of a two-person team in the 9–14 June 2026 competition organized by **BTK Akademi, Google, and Girişimcilik Vakfı**. Collaborated on time-constrained data-analysis, algorithmic problem-solving, and optimization tasks and earned a participation certificate.
+- 🏗️ **CampusNote Pro | Product Owner & Scrum Master**: Led a team of 4 in developing an AI-assisted academic-sharing platform. Managed the SDLC, IEEE 830-aligned requirements, UML, user stories, and Scrum processes. The architecture combines **Java Spring Boot**, **PostgreSQL**, **Tailwind CSS**, and an external **Python AI service**.
 - 🌌 **aura.board | Full-Stack**: Built and deployed a collaborative digital vision board with **ASP.NET Core (.NET 9)**, PostgreSQL, Entity Framework Core, Vite, and vanilla JavaScript. Implemented HttpOnly-cookie JWT authentication, PBKDF2-SHA512 password hashing, collaboration features, persistent storage, and optional Gemini-powered inspiration.
 - 🌳 **CodeYourTree | Full-Stack**: Developed a coding-habit tracker using **Java 21**, **Spring Boot 3**, **Spring Security**, and **PostgreSQL**. Implemented recursive tree-growth logic, persistent progress tracking, and backend tests with **JUnit 5** and **Mockito**.
 - 🛡️ **StegoDetector**: Developed a texture-aware steganalysis application using **Python**, **Streamlit**, **XGBoost**, **scikit-learn**, **OpenCV**, and **NumPy** to classify and analyze potentially hidden image data.
@@ -54,13 +57,16 @@
 
 | Project | Tech Stack | Progress | Status |
 | :--- | :--- | :--- | :--- |
+| **Personal Portfolio Website** | React 19, TypeScript, Spring Boot, PostgreSQL | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
+| **Regional Healthcare Database Management System** | SQL Server, T-SQL, EER, 3NF | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
+| **DATATHON 2026** | Data Analysis, Algorithmic Problem Solving, Optimization | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
 | **aura.board** | ASP.NET Core (.NET 9), PostgreSQL, Vite | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Deployed |
 | **CodeYourTree** | Java 21, Spring Boot, PostgreSQL | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
 | **StegoDetector** | Python, OpenCV, XGBoost | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
 | **Frantic Barista** | JavaScript, HTML5 Canvas | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
 | **University Automation System** | Java, Swing, FlatLaf, iText | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
 | **Expense Tracker** | Java, Swing, PostgreSQL | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
-| **CampusNote Pro** | Spring Boot, PostgreSQL, Python | <img src="https://geps.dev/progress/75" alt="75% complete" /> | 🔄 In Development |
+| **CampusNote Pro** | Spring Boot, PostgreSQL, Python | <img src="https://geps.dev/progress/100" alt="100% complete" /> | ✅ Completed |
 | **Overengineering Detector** | Node.js, PostgreSQL, Vanilla JS | <img src="https://geps.dev/progress/85" alt="85% complete" /> | 🔄 In Development |
 | **Academic Calendar Scraper Istanbul** | Python, YAML, HTML/PDF Parsing | <img src="https://geps.dev/progress/30" alt="30% complete" /> | 🔄 In Development |
 
